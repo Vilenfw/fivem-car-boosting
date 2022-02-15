@@ -2,6 +2,7 @@
 
 ## Dependencies:
 
+qb minigame
 
 
 
