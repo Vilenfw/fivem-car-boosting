@@ -2,7 +2,8 @@
 
 ## Dependencies:
 
-https://github.com/DarkloaderTM/hackingminigame
+
+
 
 ## Read Config thoroughly
 
